@@ -1,0 +1,78 @@
+{
+ "pricing": {
+  "cells": 40,
+  "confident_cells": 24,
+  "cells_raise_price": 16,
+  "cells_cut_price": 8,
+  "portfolio_contrib_uplift_pct": 13.0,
+  "fulfilment_2W_at_0_9_vs_1_2": [
+   65.5,
+   69.9
+  ],
+  "fulfilment_truck_at_0_9_vs_1_2": [
+   61.9,
+   77.4
+  ]
+ },
+ "acquisition": {
+  "cheapest_channels": [
+   "Referral",
+   "Fleet-owner tie-ups"
+  ],
+  "cost_per_m1_partner": {
+   "Referral": 563,
+   "Fleet-owner tie-ups": 895,
+   "Field camps": 1113,
+   "Digital ads": 1895
+  },
+  "digital_ads_biggest_drop": "leads->docs (66% lost)"
+ },
+ "partner_retention": {
+  "m1_rate": 43.5,
+  "auc": 0.718,
+  "m1_by_first_week_earnings": {
+   "<2K": 20.7,
+   "2-3.5K": 32.2,
+   "3.5-5K": 48.2,
+   "5K+": 68.0
+  },
+  "m1_with_vs_without_payout_issue": [
+   24.0,
+   46.6
+  ],
+  "strongest_negative_driver": "avg_wait_min"
+ },
+ "support": {
+  "tickets": 40000,
+  "median_min_by_handoffs": {
+   "0": 38.5,
+   "1": 73.0,
+   "2": 102.6
+  },
+  "callback_vs_chat_median": [
+   90.8,
+   57.3
+  ],
+  "redesign_median_min_before_after": [
+   67.3,
+   47.1
+  ],
+  "redesign_reopen_rate_before_after": [
+   12.9,
+   8.1
+  ]
+ },
+ "growth": {
+  "customers": 30000,
+  "dormant_pct": 30.7,
+  "active_after_bad_vs_good_first_order": [
+   12.9,
+   45.0
+  ],
+  "dormant_high_value": 2795,
+  "dormant_high_value_segments": {
+   "Kirana / retail": 1636,
+   "D2C seller": 927
+  }
+ }
+}

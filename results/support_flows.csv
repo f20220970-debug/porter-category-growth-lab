@@ -1,0 +1,11 @@
+issue,channel,n,median_min,avg_handoffs,reopen_rate
+App / login,Callback,2130,71.1,0.498,0.1
+App / login,Chat,3842,38.3,0.497,0.103
+Document update,Callback,1809,108.1,0.812,0.116
+Document update,Chat,3403,74.5,0.788,0.14
+Order cancellation,Callback,2867,60.0,0.303,0.092
+Order cancellation,Chat,5204,25.6,0.287,0.08
+Payout delay,Callback,4247,108.4,1.114,0.16
+Payout delay,Chat,7816,76.5,1.096,0.165
+Pricing dispute,Callback,3056,94.6,0.902,0.145
+Pricing dispute,Chat,5626,62.0,0.898,0.134

@@ -1,0 +1,5 @@
+channel,leads,docs,verified,trained,first_trip,m1_retained,spend,lead_to_first_trip_pct,cost_per_first_trip,cost_per_m1_partner,biggest_drop
+Referral,6000,4196,3571,3208,2557,1599,900000,42.6,352.0,562.9,leads->docs (30% lost)
+Fleet-owner tie-ups,6000,5093,4568,4318,3882,2682,2400000,64.7,618.2,894.9,leads->docs (15% lost)
+Field camps,6000,4457,3570,3285,2545,1402,1560000,42.4,613.0,1112.7,leads->docs (26% lost)
+Digital ads,6000,2061,1444,1154,712,285,540000,11.9,758.4,1894.7,leads->docs (66% lost)
